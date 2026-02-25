@@ -1,6 +1,6 @@
 # Madeline Portfolio MVP                                                                                                                   
                                                             
-  A beginner-friendly static portfolio to showcase my AI learning journey.
+  A beginner-friendly static portfolio to showcase my agent journey.
 
   ## Files
 
