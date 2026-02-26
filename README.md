@@ -11,7 +11,7 @@ Section-by-section, I share what I’m learning, what works, and what I’d do d
 - 🧠 Learning AI by building real-world experiments and pet projects
 - 💡 Exploring fintech & crypto intersections with AI
 - 🧭 Shipping frequently — turn ideas into runnable demos, fast
-- 📝 Writing and speaking about AI workflows and developer experience
+- 📝 Writing about AI workflows and developer experience
 
 ## Current Projects
 
@@ -22,15 +22,13 @@ Section-by-section, I share what I’m learning, what works, and what I’d do d
 
 ## AI Journey (Timeline)
 
-- 2024 Q3: Python & ML basics; built a sentiment analyzer (very imperfect but instructive)
 - 2024 Q4: LLM experiments and prompt engineering; small prototypes
 - 2025 Q1: Building in public; shipping more consistently
-- 2025 Now: Focus on ethics, tooling, and practical demos
+- 2025 Now: Focus on openclaw, agents, and practical demos
 
 ## What I Care About
 
-- Social issues and ethical tech
-- Privacy and responsible AI
+- Social issues and privacy
 - Making fintech accessible
 - Kind, curious communities
 
